@@ -15,6 +15,7 @@ struct ClahView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Clah")
+            Text("Yo")
         }
         .padding()
     }
