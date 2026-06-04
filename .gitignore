@@ -1,1 +1,27 @@
-xcuserdata
+# Xcode
+#
+# Mac OS X Finder files
+.DS_Store
+
+# Build artifacts
+build/
+DerivedData/
+
+# User data (Ukuran window, posisi tab, dll - WAJIB DIABAIKAN)
+*.xcuserdatad
+*.xcuserstate
+
+# Xcode 13+ Swift Package Manager workspace artifacts
+.swiftpm/xcode/
+
+# CocoaPods (Hapus tanda # di bawah jika Anda menggunakan CocoaPods)
+# Pods/
+# Podfile.lock
+
+# Carthage (Hapus tanda # jika menggunakan Carthage)
+# Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
