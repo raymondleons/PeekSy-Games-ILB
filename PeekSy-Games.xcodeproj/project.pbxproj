@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		ED2C8BAB2FD16DAF007841C8 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = ED2C8BAA2FD16DA0007841C8 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		ED2C8B9C2FD16C21007841C8 /* PeekSy-Games.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PeekSy-Games.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED2C8BAA2FD16DA0007841C8 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		ED2C8B932FD16C21007841C8 = {
 			isa = PBXGroup;
 			children = (
+				ED2C8BAA2FD16DA0007841C8 /* .gitignore */,
 				ED2C8B9E2FD16C21007841C8 /* PeekSy-Games */,
 				ED2C8B9D2FD16C21007841C8 /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED2C8BAB2FD16DAF007841C8 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
